@@ -29,5 +29,17 @@ This project analyzes a telecom customer dataset and compares churn with attribu
 - README.md
 
 ## EDA Visualizations
+## 1. OVERALL CHURN STATUS
+<img width="557" height="331" alt="Screenshot 2026-11-02 163539" src="https://github.com/user-attachments/assets/6883b5f9-8315-4e66-a127-eedd0c2a57f1" />
+<img width="521" height="42" alt="Screenshot 2026-11-02 163611" src="https://github.com/user-attachments/assets/c5f0745a-ec9f-4456-ac0e-bc35c2ecaf48" />
+
+
+
+
+
+
+
+
+
 
 
