@@ -60,7 +60,7 @@ This project analyzes a telecom customer dataset and compares churn with attribu
 
 ## 8. Churn Distribution By Internet Services And Gender
 <img width="773" height="341" alt="Screenshot 2026-11-02 170043" src="https://github.com/user-attachments/assets/a9910604-f97c-43ec-944e-92b11bc4f886" />
-<img width="585" height="48" alt="Screenshot 2026-11-02 170118" src="https://github.com/user-attachments/assets/e6487ba5-01b3-4d80-a306-906bb00bca28" />
+<img width="746" height="36" alt="Screenshot 2026-11-02 172050" src="https://github.com/user-attachments/assets/ea8f8718-2210-4e9a-b066-e706b402bdce" />
 
 ## 9. Churn Distribution By Online Security
 <img width="566" height="338" alt="Screenshot 2026-11-02 170348" src="https://github.com/user-attachments/assets/6cf712e9-1e8c-429a-b4cb-5ff965bbaba7" />
