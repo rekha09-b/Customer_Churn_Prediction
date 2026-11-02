@@ -37,15 +37,34 @@ This project analyzes a telecom customer dataset and compares churn with attribu
 <img width="574" height="347" alt="Screenshot 2026-11-02 164144" src="https://github.com/user-attachments/assets/6dc9d8bb-3d84-4060-b61b-0ff968d5c3ac" />
 <img width="533" height="54" alt="Screenshot 2026-11-02 164211" src="https://github.com/user-attachments/assets/8e10f1b4-2153-4d7b-9220-6aa27a2f3d7a" />
 
-## Churn Distribution By Senior Citizen
+## 3. Churn Distribution By Senior Citizen
 <img width="558" height="347" alt="Screenshot 2026-11-02 164543" src="https://github.com/user-attachments/assets/82cb3ad2-79c6-49a1-8d1f-445b380b812e" />
 <img width="553" height="40" alt="Screenshot 2026-11-02 164612" src="https://github.com/user-attachments/assets/463b414b-14f0-444e-8ab1-e72e9f08d596" />
 
-## Churn Distribution By Partner
+## 4. Churn Distribution By Partner
 <img width="561" height="342" alt="Screenshot 2026-11-02 164906" src="https://github.com/user-attachments/assets/b988c14d-6bfb-4cae-9be3-8c3c57f2c89d" />
 <img width="536" height="37" alt="Screenshot 2026-11-02 164932" src="https://github.com/user-attachments/assets/4d8e8b34-52fc-404b-aade-dc0d6a177971" />
 
+## 5. Churn Distribution By Dependent
+<img width="559" height="343" alt="Screenshot 2026-11-02 165306" src="https://github.com/user-attachments/assets/d963dc73-30aa-4765-87a7-e1539b0e9dd2" />
+<img width="534" height="38" alt="Screenshot 2026-11-02 165328" src="https://github.com/user-attachments/assets/74c2778b-df4f-4ed3-bd72-3935a2139ce8" />
 
+## Services
+## 6. Churn Distribution By Phone Service
+<img width="566" height="343" alt="Screenshot 2026-11-02 165602" src="https://github.com/user-attachments/assets/302c963e-eeb3-4288-a951-8d7ef06aedcc" />
+<img width="528" height="41" alt="Screenshot 2026-11-02 165620" src="https://github.com/user-attachments/assets/2759641f-73eb-44ee-90ec-0dc0fa93bd2c" />
+
+## 7. Churn Distribution By Internet Services
+<img width="566" height="341" alt="Screenshot 2026-11-02 165811" src="https://github.com/user-attachments/assets/3afb2791-a341-48bf-adc1-7e4849017d26" />
+<img width="555" height="51" alt="Screenshot 2026-11-02 165828" src="https://github.com/user-attachments/assets/31f9aa46-55cf-45b6-911f-772b2edbcd48" />
+
+## 8. Churn Distribution By Internet Services And Gender
+<img width="773" height="341" alt="Screenshot 2026-11-02 170043" src="https://github.com/user-attachments/assets/a9910604-f97c-43ec-944e-92b11bc4f886" />
+<img width="585" height="48" alt="Screenshot 2026-11-02 170118" src="https://github.com/user-attachments/assets/e6487ba5-01b3-4d80-a306-906bb00bca28" />
+
+## 9. Churn Distribution By Online Security
+<img width="566" height="338" alt="Screenshot 2026-11-02 170348" src="https://github.com/user-attachments/assets/6cf712e9-1e8c-429a-b4cb-5ff965bbaba7" />
+<img width="552" height="52" alt="Screenshot 2026-11-02 170405" src="https://github.com/user-attachments/assets/4b21f471-2357-4ff7-ad29-0ed6a6e55b5b" />
 
 
 
