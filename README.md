@@ -66,22 +66,25 @@ This project analyzes a telecom customer dataset and compares churn with attribu
 <img width="566" height="338" alt="Screenshot 2026-11-02 170348" src="https://github.com/user-attachments/assets/6cf712e9-1e8c-429a-b4cb-5ff965bbaba7" />
 <img width="552" height="52" alt="Screenshot 2026-11-02 170405" src="https://github.com/user-attachments/assets/4b21f471-2357-4ff7-ad29-0ed6a6e55b5b" />
 
+## 10. Churn Distribution By TechSupport
+<img width="566" height="346" alt="Screenshot 2026-11-02 170710" src="https://github.com/user-attachments/assets/009fe4d1-d3c4-4b3d-9e3c-f2a45afee07d" />
+<img width="544" height="38" alt="Screenshot 2026-11-02 170730" src="https://github.com/user-attachments/assets/63f4e3fe-c506-4324-9446-81fd25858c5e" />
 
+## Account Information
+## 11. Churn Distribution By Contract
+<img width="552" height="340" alt="Screenshot 2026-11-02 170931" src="https://github.com/user-attachments/assets/6b093215-8711-40e6-a560-df48ea59933d" />
+<img width="547" height="47" alt="Screenshot 2026-11-02 170949" src="https://github.com/user-attachments/assets/e83d09d4-5d0e-42e2-acce-407f2c6b6589" />
 
+## 12. Churn Distribution By PaperlessBilling
+<img width="551" height="344" alt="Screenshot 2026-11-02 171133" src="https://github.com/user-attachments/assets/cffa8135-9d43-4b4b-bf8d-5a6f72412379" />
+<img width="537" height="36" alt="Screenshot 2026-11-02 171150" src="https://github.com/user-attachments/assets/5806d824-7bfb-45a1-8b0f-5cf51d82e9c0" />
 
+## 13. Payment Method Distribution
+<img width="560" height="341" alt="Screenshot 2026-11-02 171350" src="https://github.com/user-attachments/assets/b41921aa-b0d4-4a72-ac5d-5b4633fe8223" />
 
-
-
-
-
-
-
-
-
-
-
-
-
+## 14. Churn Distribution By Payment Method
+<img width="560" height="343" alt="Screenshot 2026-11-02 171716" src="https://github.com/user-attachments/assets/67d111bb-e6d3-4cbd-a6b6-13e8635816a2" />
+<img width="533" height="52" alt="Screenshot 2026-11-02 171740" src="https://github.com/user-attachments/assets/24cac6f7-b7c0-4383-bd89-6a00221c3251" />
 
 
 
